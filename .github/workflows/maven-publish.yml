@@ -28,6 +28,6 @@ jobs:
         ls /Users/suhailsinghbains/Downloads/actions-runner/_work/GitHub-Actions-Test/GitHub-Actions-Test/complete/target/
         cd /Users/suhailsinghbains/Downloads/actions-runner/_work/GitHub-Actions-Test/GitHub-Actions-Test/complete/target/
         ls
-        #java /Users/suhailsinghbains/Downloads/actions-runner/_work/GitHub-Actions-Test/GitHub-Actions-Test/complete/target/spring-boot-complete-0.0.1-SNAPSHOT.jar
+        java spring-boot-complete-0.0.1-SNAPSHOT.jar
         echo "DONE"
       shell: bash
