@@ -24,6 +24,7 @@ jobs:
     
     - name: Run script file
       run: |
-         java /Users/suhailsinghbains/Downloads/actions-runner/_work/GitHub-Actions-Test/GitHub-Actions-Test/complete/target/spring-boot-complete-0.0.1-SNAPSHOT.jar
-         echo "DONE"
+        java -version
+        #java /Users/suhailsinghbains/Downloads/actions-runner/_work/GitHub-Actions-Test/GitHub-Actions-Test/complete/target/spring-boot-complete-0.0.1-SNAPSHOT.jar
+        echo "DONE"
       shell: bash
